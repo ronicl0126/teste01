@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
+http://us11.kromeo.live/SD_AE/video.m3u8?token=3f135082412adea394a408b23f94a9d2
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
+http://us11.kgolf.store/SD_AMC/video.m3u8?token=3f135082412adea394a408b23f94a9d2
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+http://fr.kpapa.live/SD_ANIMAL_PLANET/video.m3u8?token=3f135082412adea394a408b23f94a9d2
